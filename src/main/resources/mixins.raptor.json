@@ -1,0 +1,31 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "me.ritomg.raptor.mixin.mixins",
+  "refmap": "raptor.refmap.json",
+  "mixins": [
+    "MixinAbstractClientPlayer",
+    "MixinBlock",
+    "MixinBlockModelRenderer",
+    "MixinBlockSoulSand",
+    "MixinBlockWeb",
+    "MixinEntity",
+    "MixinEntityPlayerSP",
+    "MixinEntityRenderer",
+    "MixinGuiBossOverlay",
+    "MixinGuiInGame",
+    "MixinGuiMainMenu",
+    "MixinGuiNewChat",
+    "MixinGuiScreen",
+    "MixinItemRenderer",
+    "MixinMinecraft",
+    "MixinNetworkManager",
+    "MixinRenderGlobal",
+    "MixinRenderManager",
+    "MixinRenderPlayer",
+    "MixinVisGraph",
+    "MixinWorld",
+    "accessor.AccessorCPacketCloseWindow",
+    "accessor.AccessorCPacketPlayerTryToUseItemOnBlock"
+  ]
+}

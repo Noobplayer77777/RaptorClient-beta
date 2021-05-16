@@ -1,0 +1,16 @@
+[
+{
+  "modid": "raptor",
+  "name": "RaptorClient",
+  "description": "Best 1.12.2 Anarchy Client.",
+  "version": "beta 4",
+  "mcversion": "1.12.2",
+  "url": "https://discord.gg/psP7zwmHaB",
+  "updateUrl": "https://discord.gg/psP7zwmHaB",
+  "authorList": ["RitomG"],
+  "credits": "RitomG",
+  "logoFile": "assets/Raptor/Small.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
